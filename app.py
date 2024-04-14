@@ -29,17 +29,3 @@ def guess_number():
 
 
 guess_number()
-
-
-
-
-
-
-print('''Pobierz odpowiedź z zestawu:
-- za dużo,
-- za mało,
-- zgadłeś''')
-x = input()
-
-if x == 'za dużo':
-   maximum = guess
