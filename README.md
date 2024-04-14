@@ -6,4 +6,4 @@ Zadaniem gracza będzie udzielanie odpowiedzi "Too small", "Too big", "You win".
 
 Do tego warsztatu dołączony jest schemat blokowy algorytmu. Zaimplementuj go w Pythonie.
 
-![flowchart.png](..%2F..%2F..%2F..%2FDownloads%2Fflowchart.png)
+![flowchart.png](https://lms.coderslab.pl/material/1644/1-9/1556acea-8313-4133-aae2-53e644d20742)
